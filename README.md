@@ -14,7 +14,7 @@
 
 ## ✨ Features
 
-- **Liquid Glass Effects** - Modern glassmorphism design with backdrop blur
+- **Liquid Glass Effects** - Modern glassmorphism design inspired by iOS design language 🍎
 - **Water Ripple Animations** - Interactive cursor effects and click ripples
 - **Responsive Design** - Optimized for all devices and screen sizes
 - **Auto Deployment** - GitHub Actions automatically deploys to GitHub Pages
