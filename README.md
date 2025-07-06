@@ -35,20 +35,20 @@
 ## 🚀 Getting Started
 
 1. **Clone the repository**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/lamberto15/lamberto15.github.io.git
    cd lamberto15.github.io
-   \`\`\`
+   ```
 
 2. **Install dependencies**
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. **Run development server**
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 4. **Open browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
@@ -59,11 +59,11 @@
 
 This portfolio automatically deploys to GitHub Pages using GitHub Actions. Simply push to the `main` branch and your changes go live!
 
-\`\`\`bash
+```bash
 git add .
 git commit -m "Update portfolio"
 git push origin main
-\`\`\`
+```
 
 ---
 
@@ -101,90 +101,6 @@ git push origin main
   - [ ] Implement theme customizer
   - [ ] Add sound effects toggle
   - [ ] Create interactive skill demos
-
-### 📱 **Mobile Experience**
-- [ ] **Touch Interactions**
-  - [ ] Add touch ripple effects
-  - [ ] Implement swipe gestures
-  - [ ] Optimize touch targets
-  - [ ] Add haptic feedback
-
-- [ ] **Performance**
-  - [ ] Implement lazy loading for images
-  - [ ] Add service worker for caching
-  - [ ] Optimize animation performance
-  - [ ] Reduce bundle size
-
-### 🔍 **SEO & Analytics**
-- [ ] **Search Optimization**
-  - [ ] Add structured data (JSON-LD)
-  - [ ] Implement Open Graph tags
-  - [ ] Add Twitter Card meta tags
-  - [ ] Create XML sitemap
-
-- [ ] **Analytics & Monitoring**
-  - [ ] Integrate Google Analytics 4
-  - [ ] Add performance monitoring
-  - [ ] Implement error tracking
-  - [ ] Add user behavior analytics
-
-### 📧 **Contact & Communication**
-- [ ] **Contact Form**
-  - [ ] Build contact form component
-  - [ ] Add form validation
-  - [ ] Implement email service (EmailJS/Formspree)
-  - [ ] Add success/error notifications
-
-- [ ] **Social Integration**
-  - [ ] Add social media sharing
-  - [ ] Implement LinkedIn integration
-  - [ ] Add GitHub activity feed
-  - [ ] Create downloadable resume
-
-### 🚀 **Advanced Features**
-- [ ] **Content Management**
-  - [ ] Add blog section
-  - [ ] Implement CMS integration (Sanity/Contentful)
-  - [ ] Create project showcase modal
-  - [ ] Add testimonials section
-
-- [ ] **Interactive Elements**
-  - [ ] Add 3D elements with Three.js
-  - [ ] Implement particle system
-  - [ ] Create interactive timeline
-  - [ ] Add code snippet previews
-
-### 🧪 **Testing & Quality**
-- [ ] **Testing Setup**
-  - [ ] Add Jest and React Testing Library
-  - [ ] Write component unit tests
-  - [ ] Add E2E tests with Playwright
-  - [ ] Implement visual regression testing
-
-- [ ] **Code Quality**
-  - [ ] Set up ESLint configuration
-  - [ ] Add Prettier formatting
-  - [ ] Implement Husky pre-commit hooks
-  - [ ] Add TypeScript strict mode
-
-### 🚀 **CI/CD & Deployment**
-- [x] **GitHub Actions Setup**
-  - [x] Automated deployment to GitHub Pages
-  - [x] Build on every push to main
-  - [ ] Add preview deployments for PRs
-  - [ ] Add build status notifications
-  - [ ] Implement staging environment
-
-### 🔒 **Security & Performance**
-- [ ] **Security**
-  - [ ] Add Content Security Policy
-  - [ ] Add input sanitization
-  - [ ] Security headers configuration
-
-- [ ] **Performance**
-  - [ ] Add image optimization
-  - [ ] Implement code splitting
-  - [ ] Optimize Core Web Vitals
 
 ---
 
